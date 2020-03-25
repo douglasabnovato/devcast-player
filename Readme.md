@@ -1,7 +1,7 @@
 # Um Player de Áudio simulando um Podcast
-- JavaScript puro
-- HTML 5 
-- Materialize - Framework CSS
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [HTML 5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element)
+- [Materialize](https://materializecss.com)
 
 ### Easy
 
@@ -21,7 +21,6 @@
 
 - [ ] Iniciar a customização visual do player
 - [ ] Adicionar funcionalidade para os botões (Play/Pause, Volume, Mute e Seekbar)
-
 
 :. de [Mayk Brito em Criando Player de Áudio com Javascript](https://www.youtube.com/watch?v=vqrjFnq3-uo&list=WL&index=4&t=0s)
 
