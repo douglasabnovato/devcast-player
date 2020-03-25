@@ -1,4 +1,4 @@
-Player de Áudio em Javascript
+Um Podcast
 - Criar um `player de áudio` simulando um podcast
 - Usar JavaScript puro
 - HTML5 e o framework css Materialize
