@@ -1,6 +1,7 @@
 # Um Player de Áudio simulando um Podcast
-- Usar JavaScript puro
-- HTML5 e o framework css MaterializeCSS
+- JavaScript puro
+- HTML 5 
+- Materialize - Framework CSS
 
 ### Easy
 
