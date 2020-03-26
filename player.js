@@ -12,8 +12,8 @@ window.player = {
     },
     next(){
         this.currentPlaying++;
-        this.update();
-        this.audio.play();
+        if(this.currentPlaying == this.audioData.length) this.restart(); 
+        this.update(); 
     },
     update(){
         this.currentAudio = this.audioData[this.currentPlaying];
@@ -22,5 +22,9 @@ window.player = {
         this.title.innerText = this.currentAudio.title;
         this.artist.innerHTML = `<i class='material-icons'>account_circle</i>${this.currentAudio.artist}`;
         this.audio.src = path(this.currentAudio.file);
+    },
+    restart(){
+        this.currentPlaying = 0;
+        this.update();
     }
 };
