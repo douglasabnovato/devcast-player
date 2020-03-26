@@ -1,15 +1,16 @@
 # Um Player de Áudio simulando um Podcast
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [HTML 5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element)
-- [Materialize](https://materializecss.com)
+- [Materialize CSS](https://materializecss.com)
+- [Material Icons](https://material.io/resources/icons/?icon=account_circle&style=baseline)
 
 ### Easy
 
 - [x] Iniciar a estrutura do layout (HTML e CSS).
 - [x] Criar o player de audio
-- [ ] Fazer o player tocar automaticamente quando a janela abrir
-- [ ] Ok, me arrependi, o player tocando automaticamente é horrível. Remova esta opção de autoplay
-- [ ] Alimentar o player com os dados de audio
+- [x] Fazer o player tocar automaticamente quando a janela abrir
+- [x] Ok, me arrependi, o player tocando automaticamente é horrível. Remova esta opção de autoplay
+- [x] Alimentar o player com os dados de audio
 
 ### Moderate
 
