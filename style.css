@@ -68,3 +68,5 @@ input[type="range"]::-moz-range-thumb{
 input[type="range"]::-ms-thumb{
     background-color: var(--primary-color);
 }
+
+/* play pause volume mute seekbar */
