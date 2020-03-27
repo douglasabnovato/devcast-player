@@ -6,7 +6,7 @@ export default{
     audioData: audios,
     currentAudio: {},
     currentPlaying:0,
-    isPlaying = false,
+    isPlaying : false,
     start(){
       elements.get.call(this);
       elements.actions.call(this);
@@ -30,10 +30,20 @@ export default{
             this.play();
         }
     },
+    toggleMute(){
+        this.audio.muted = !this.audio.muted;
+        this.mute.innerText = this.audio.muted ? "volume_down" : "volume_up";
+    },
     next(){
         this.currentPlaying++;
         if(this.currentPlaying == this.audioData.length) this.restart(); 
         this.update(); 
+    },
+    setVolume(value){
+        this.audio.volume = value / 100;
+    },
+    setSeek(value){
+        this.audio.currentTime = value;
     },
     update(){
         this.currentAudio = this.audioData[this.currentPlaying];

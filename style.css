@@ -53,8 +53,9 @@ audio{
     background-color: var(--primary-color);
 }
 
-#vol{
+#mute{
     color: var(--primary-color);
+    transform: translateY(2px);
 }
 
 input[type="range"]::-webkit-slider-thumb{
