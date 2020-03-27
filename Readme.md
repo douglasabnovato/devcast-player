@@ -1,6 +1,7 @@
-# Player de Áudio em Podcast
+# RocketCast - um Player de Áudio em Podcast
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-- [HTML 5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element)
+- [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element)
+- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [Materialize CSS](https://materializecss.com)
 - [Material Icons](https://material.io/resources/icons/?icon=account_circle&style=baseline)
 
