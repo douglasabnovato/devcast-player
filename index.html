@@ -13,7 +13,7 @@
         <div class="card">
             <div class="card-image">
                 <a href="#" class="btn-floating btn-large halfway-fab">
-                    <i class="material-icons">play_arrow</i>
+                    <i class="material-icons" id="play-pause">play_arrow</i>
                 </a>
             </div>
             <div class="card-content">
@@ -27,11 +27,11 @@
                     <div class="col s2" id="total-duration">00:00</div>
                     <div>
                         <a href="#">
-                            <i class="material-icons">volume_up</i>
+                            <i class="material-icons" id="vol">volume_up</i>
                         </a>                        
                     </div>
-                    <div class="col s6 range-field valign-wrapper">
-                        <input type="range" min=0 max=0 id="seekbar" step="1">
+                    <div class="col s3 range-field valign-wrapper">
+                        <input id="vol-control" type="range" min="0" max="100" id="seekbar" step="1">
                     </div>
                 </div>
             </div>            
