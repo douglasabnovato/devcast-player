@@ -11,11 +11,18 @@
     <div id="player">
         <h4><i class="material-icons">equalizer</i>RocketCast</h4>
         <div class="card">
-            <div class="card-image"></div>
+            <div class="card-image">
+                <a href="#" class="btn-floating btn-large halfway-fab">
+                    <i class="material-icons">play_arrow</i>
+                </a>
+            </div>
             <div class="card-content">
                 <h5>Title</h5>
                 <p class="artist">Artist</p>
-                <audio controls></audio>
+                <div class="row valign-wrapper">
+                    <div class="col s2" id="current-duration">00:00</div>
+                    <div class="col s2" id="total-duration">00:00</div>
+                </div>
             </div>            
         </div>
     </div>
