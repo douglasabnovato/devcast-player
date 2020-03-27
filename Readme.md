@@ -1,4 +1,4 @@
-# Um Player de Áudio simulando um Podcast
+# Player de Áudio em Podcast
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [HTML 5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element)
 - [Materialize CSS](https://materializecss.com)
