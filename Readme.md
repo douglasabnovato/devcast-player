@@ -23,7 +23,7 @@
 ### Hard
 
 - [x] Iniciar a customização visual do player
-- [ ] Adicionar funcionalidade para os botões (Play/Pause, Volume, Mute e Seekbar)
+- [x] Adicionar funcionalidade para os botões (Play/Pause, Volume, Mute e Seekbar)
 
 ## Rocketseat
 :. de [Mayk Brito em Criando Player de Áudio com Javascript](https://www.youtube.com/watch?v=vqrjFnq3-uo&list=WL&index=4&t=0s)
