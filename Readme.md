@@ -20,7 +20,7 @@
 
 ### Hard
 
-- [ ] Iniciar a customização visual do player
+- [x] Iniciar a customização visual do player
 - [ ] Adicionar funcionalidade para os botões (Play/Pause, Volume, Mute e Seekbar)
 
 ## Rocketseat
