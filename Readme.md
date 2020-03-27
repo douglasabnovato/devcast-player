@@ -4,7 +4,6 @@
 - [Materialize CSS](https://materializecss.com)
 - [Material Icons](https://material.io/resources/icons/?icon=account_circle&style=baseline)
 
-## Rocketseat
 ### Easy
 
 - [x] Iniciar a estrutura do layout (HTML e CSS).
@@ -24,6 +23,7 @@
 - [ ] Iniciar a customização visual do player
 - [ ] Adicionar funcionalidade para os botões (Play/Pause, Volume, Mute e Seekbar)
 
+## Rocketseat
 :. de [Mayk Brito em Criando Player de Áudio com Javascript](https://www.youtube.com/watch?v=vqrjFnq3-uo&list=WL&index=4&t=0s)
 
 >@douglasabnovato
