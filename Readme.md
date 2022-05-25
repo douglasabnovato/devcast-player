@@ -41,7 +41,16 @@
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="AudioPlayer" title="#AudioPlayer" src="./files/audio-player-tela.jpg" width="400px">
-</p> 
+</p>  
+
+## 🚀 Próximo passo
+
+- alterar imagem
+- adicionar áudios
+- responsividade
+- acessibilidade
+- modo dark / light
+- variação de cores
 
 ## 🛠 Tecnologias
 
