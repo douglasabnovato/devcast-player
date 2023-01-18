@@ -1,18 +1,10 @@
 <h1 align="center">
-    <img alt="AudioPlayer" title="#AudioPlayer" src="./files/audio-player-tela.jpg" />
+    <img alt="AudioPlayer" title="#AudioPlayer" src="./.github/desktop-1.jpg" />
 </h1>
 
 <h4 align="center"> 
 	🚧 Áudio Player 🚀🚧
 </h4> 
-
-<p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/douglasabnovato/audio-player?color=%2304D361">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/douglasabnovato/audio-player">
-  <a href="https://www.twitter.com/douglasabnovato/">
-    <img alt="Siga no Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%douglasabnovato%2Faudio-player">
-  </a>
-</p>
 
 ## 💻 Sobre o projeto
 
@@ -39,7 +31,13 @@
 ### Web - v1.0
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="AudioPlayer" title="#AudioPlayer" src="./files/audio-player-tela.jpg" width="400px">
+  <img alt="AudioPlayer" title="#AudioPlayer" src="./.github/desktop-1.jpg" width="400px">
+</p>  
+
+### Mobile - v1.0
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="AudioPlayer" title="#AudioPlayer" src="./.github/mobile-1.jpg" width="400px">
 </p>  
 
 ## 🚀 Próximo passo
@@ -49,6 +47,7 @@
 - [ ] acessibilidade
 - [ ] modo dark / light
 - [ ] variação de cores
+- [ ] função de player
 
 ## 🛠 Tecnologias
 
