@@ -7,7 +7,7 @@
 
 ## 💻 Sobre o projeto
 
-♻️ Áudio Player 
+♻️ Dev Cast 
 
 - Áudio player personalizado com os áudios e imagem 
  
