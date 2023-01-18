@@ -1,10 +1,9 @@
-<h1 align="center">
-    <img alt="AudioPlayer" title="#AudioPlayer" src="./.github/desktop-1.jpg" />
-</h1>
-
 <h4 align="center"> 
-	🚧 Áudio Player 🚀🚧
+	🚧 Dev Cast 🚀🚧
 </h4> 
+<h1 align="center">
+    <img alt="Dev Cast" title="#DevCast" src="./.github/desktop-1.jpg" />
+</h1>
 
 ## 💻 Sobre o projeto
 
@@ -31,13 +30,13 @@
 ### Web - v1.0
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="AudioPlayer" title="#AudioPlayer" src="./.github/desktop-1.jpg" width="400px">
+  <img alt="Dev Cast" title="#Dev Cast" src="./.github/desktop-1.jpg" width="400px">
 </p>  
 
 ### Mobile - v1.0
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="AudioPlayer" title="#AudioPlayer" src="./.github/mobile-1.jpg" height="400px">
+  <img alt="Dev Cast" title="#Dev Cast" src="./.github/mobile-1.jpg" height="400px">
 </p>  
 
 ## 🚀 Próximo passo
