@@ -1,6 +1,13 @@
 export default[
   {
     title:
+      "Ser dev em 2023",
+    artist: "Douglas A B Novato",
+    cover: "ser-dev-em-2023.jpg",
+    file: "ser-dev-em-2023.mp3"
+  },
+  {
+    title:
       "Como começei a programar / Por que criamos a Rocketseat / Nossa Stack",
     artist: "Diego Fernandes",
     cover: "como-comecei.jpg",

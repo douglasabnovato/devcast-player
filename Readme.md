@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center"> 
-	🚧 Áudio Player 🚀 em construção... 🚧
+	🚧 Áudio Player 🚀🚧
 </h4> 
 
 <p align="center">
@@ -18,8 +18,7 @@
 
 ♻️ Áudio Player 
 
-- Áudio player personalizado
-- Com os áudios e imagem 
+- Áudio player personalizado com os áudios e imagem 
  
 ## 🎨 Layout
 
@@ -45,12 +44,11 @@
 
 ## 🚀 Próximo passo
 
-- alterar imagem
-- adicionar áudios
-- responsividade
-- acessibilidade
-- modo dark / light
-- variação de cores
+- [ ] adicionar áudios
+- [ ] responsividade
+- [ ] acessibilidade
+- [ ] modo dark / light
+- [ ] variação de cores
 
 ## 🛠 Tecnologias
 
