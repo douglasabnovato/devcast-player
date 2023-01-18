@@ -37,7 +37,7 @@
 ### Mobile - v1.0
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="AudioPlayer" title="#AudioPlayer" src="./.github/mobile-1.jpg" width="400px">
+  <img alt="AudioPlayer" title="#AudioPlayer" src="./.github/mobile-1.jpg" height="400px">
 </p>  
 
 ## 🚀 Próximo passo
